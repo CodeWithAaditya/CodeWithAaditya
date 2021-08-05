@@ -1,6 +1,8 @@
-Hi, I'm Aaditya Sah and i am a software and hardware engineer. I love to make robots that have no purpose (some do have a purpose) and I love making beautiful websites and stunning apps. Some of the coding languges I are typescript, html, css, java, python, c++, c#. Some frameworks like Angular, ASP.NET, Enitity Framework. I also have used various database technology like NoSql, JsonDB, Sql Server, and CosmosDB. I have dipped my toes in a little bit a Machine learning with python and tensorflow but I am still a newbie. 
+Hi, I'm Aaditya Sah and I am a software and hardware engineer. I love to make robots that have no purpose (some do have a purpose) and I love making beautiful websites and stunning apps. Some of the coding languages I use are typescript, javascript, html, css, java, python, c++, c#. Some frameworks like Angular, ASP.NET, Enitity Framework. I also have used various database technology like NoSql, JsonDB, Sql Server, and CosmosDB. I have dipped my toes in a little bit a Machine learning with python and tensorflow but I am still a newbie. 
 
 I am currently Working on publishing all my rpojects to github for everyone to see.
+
+I make youtube videos to get children into the STEAM field.
 
 <h2><b>My Statistics</b></h2>
 
