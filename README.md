@@ -6,5 +6,5 @@ I make youtube videos to get children into the STEAM field.
 
 <h2><b>My Statistics</b></h2>
 
-![github stats](https://raw.githubusercontent.com/CodeWithAaditya/CodeWithAadityaStats/5d4680ea8b7a5986c1924b1fdd5e789ad038bc32/generated/overview.svg?token=ALMK3VUEPN5MPV5TVSUUED3BBRNSM) ![Top Langs](https://raw.githubusercontent.com/CodeWithAaditya/CodeWithAadityaStats/5d4680ea8b7a5986c1924b1fdd5e789ad038bc32/generated/overview.svg?token=ALMK3VX73OL4KH6RRYI35ZDBBRORU) 
+![github stats](https://raw.githubusercontent.com/CodeWithAaditya/CodeWithAadityaStats/5d4680ea8b7a5986c1924b1fdd5e789ad038bc32/generated/overview.svg?token=ALMK3VRZZC536JCOWE4FR23BBRPEA) ![Top Langs](https://raw.githubusercontent.com/CodeWithAaditya/CodeWithAadityaStats/5d4680ea8b7a5986c1924b1fdd5e789ad038bc32/generated/languages.svg?token=ALMK3VVT5VGLDJSTPXYOSYTBBRPCO) 
 
